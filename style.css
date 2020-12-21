@@ -1,0 +1,151 @@
+.main{
+    margin: 40px 300px;
+    border:3px solid black;
+    padding-top:40px;
+    padding-left:60px;
+    padding-right:60px;
+    padding-bottom: 40px;
+    background-color:black;
+    overflow:hidden;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.main-head {
+    display:flex;
+    padding-left:150px;
+}
+.head {
+    height:100px;
+    padding-top:15px;
+    text-align:center;
+}
+.ob {
+    line-height:0px;
+    text-align:left;
+    padding-top:10px;
+    padding-left:20px;
+
+}
+.box-1 {
+    padding-left:30px;
+   padding-right:10px;
+   padding-top:10px;
+   padding-bottom:10px;
+}
+.figr-3 {
+    text-align:center;
+    padding:0px;
+}
+.icon-pad {
+    border: 3px solid white;
+    border-radius:50%;
+    overflow:hidden;
+}
+.back-blue {
+    background-color:dodgerblue;
+}
+#large {
+    color: crimson;
+    font-size: 60px;
+    letter-spacing:2px;
+}
+.siz1 {
+    font-size: 20px;
+    font-weight: bold;
+    color:white;
+}
+.tab2-td1 {
+    background-color: orange;
+    text-align:center;
+    padding-left:30px;
+    padding-top:20px;
+   padding-bottom:30px;
+    width:50%;
+}
+.tab2-td2 {
+    background-color:dodgerblue;
+    text-align:center;
+    padding-right:10px;
+    padding-top:20px;
+    padding-bottom:20px;
+    width:50%;
+}
+.div-tab1 {
+    padding-top:30px;
+    background-color:black;
+}
+.white-large {
+    color:white;
+    font-size:40px;
+    font-weight:bold;
+    word-spacing:3px;
+}
+.white-med {
+    color:white;
+    font-size:20px;
+    font-weight:bold;
+    word-spacing:3px;
+
+}
+.white {
+    color:white;
+    word-spacing:3px;
+}
+.move {
+    position:relative;
+    top:20px;
+    left:10px;
+}
+.div-tab2 {
+    padding-top:30px;
+}
+.box-3 {
+   padding-left:30px;
+   padding-right:10px;
+   padding-top:10px;
+   padding-bottom:10px;
+   background-color:crimson;
+}
+.box-4 {
+    padding-left:30px;
+    padding-right:10px;
+    padding-top:10px;
+    padding-bottom:10px;
+    background-color:dodgerblue; 
+}
+.box-4pad {
+    text-align:left;
+    padding-bottom:25px;
+}
+.orared-td1 {
+    background-color:crimson;
+    text-align:center;
+    padding:10px;
+}
+.dodge-back {
+    padding-left:30px;
+   padding-right:10px;
+   padding-top:10px;
+   padding-bottom:10px;
+   background-color:dodgerblue;
+}
+.or-box {
+    padding-left:30px;
+   padding-right:50px;
+   padding-top:10px;
+   padding-bottom:10px;
+   background-color:orange;
+
+}
+.or-boxalign {
+    text-align:right;
+}
+.lbox-td1 {
+    background-color: dodgerblue;
+    text-align:center;
+    padding:10px;
+}
+.lbox-td2 {
+    background-color: crimson;
+    text-align:center;
+    padding:10px;
+}
